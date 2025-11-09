@@ -6,7 +6,7 @@ Software developer
 
 Have experience working with programming technologies since 2021\
 🌟 Main languages: Python, SQL\
-🚩 Have experience with: JavaScript, С, C++
+🚩 Have experience with: TypeScript, JavaScript, React С, C++
 
 ### Skills
 
