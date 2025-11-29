@@ -1,29 +1,80 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex
-============================================================================================================================
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100px" alt="Hello" />
+  
+  # Hi there, I'm Alex! 👋
+  
+  ### Software Developer
+  
+  *Experienced developer since 2021* 🚀
+</div>
 
-Software developer
-----------------------------------
+---
 
-Have experience working with programming technologies since 2021\
-🌟 Main languages: Python, SQL\
-🚩 Have experience with: TypeScript, JavaScript, React С, C++
+### 👨‍💻 About Me
 
-### Skills
+- 🌟 **Main languages:** Python, SQL
+- 🚩 **Have experience with:** TypeScript, JavaScript, React, C, C++
+- 💻 Currently working on various projects
+- 📚 Always learning new technologies
+- 🎯 Focused on writing clean and efficient code
 
-<p align="left">
-<a href="https://github.com/axindri?tab=repositories&q=&type=&language=python&sort=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://github.com/axindri?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://github.com/axindri?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://github.com/axindri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://github.com/axindri?tab=repositories&q=&type=&language=html&sort=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://github.com/axindri?tab=repositories&q=&type=&language=vue&sort=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://github.com/axindri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://github.com/axindri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://github.com/axindri?tab=repositories&q=&type=&language=c&sort=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-</p>
+---
 
-### Badges
+### 💻 Tech Stack Badges
 
-<a href="http://www.github.com/axindri"><img src="https://github-readme-stats.vercel.app/api?username=axindri&show_icons=true&hide=issues,contribs&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&show_icons=true" alt="axindri's GitHub stats" /></a>
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  
+</div>
 
-<a href="https://github.com/axindri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axindri&langs_count=5&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axindri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axindri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=axindri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+  
+</div>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=axindri&theme=tokyo-night&hide_border=true&area=true)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=axindri&color=58A6FF&style=flat-square&label=Profile+Views)
+  
+</div>
