@@ -45,9 +45,11 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axindri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  ![GitHub followers](https://img.shields.io/github/followers/axindri?style=for-the-badge&logo=github&label=Followers)
+  ![GitHub stars](https://img.shields.io/github/stars/axindri?style=for-the-badge&logo=github&label=Stars)
+  ![GitHub contributions](https://img.shields.io/github/contributions/axindri/axindri?style=for-the-badge&logo=github&label=Contributions)
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axindri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <br/>
   
 </div>
 
