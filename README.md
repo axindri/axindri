@@ -46,8 +46,8 @@
 <div align="center">
   
   ![GitHub followers](https://img.shields.io/github/followers/axindri?style=for-the-badge&logo=github&label=Followers)
-  ![GitHub stars](https://img.shields.io/github/stars/axindri?style=for-the-badge&logo=github&label=Stars)
-  ![GitHub contributions](https://img.shields.io/github/contributions/axindri/axindri?style=for-the-badge&logo=github&label=Contributions)
+  ![GitHub stars](https://img.shields.io/github/stars/axindri?style=for-the-badge&logo=github&label=Stars) 
+  ![Profile Views](https://komarev.com/ghpvc/?username=axindri&color=58A6FF&style=flat-square&label=Profile+Views)
   
   <br/>
   
@@ -70,13 +70,5 @@
 <div align="center">
   
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=axindri&theme=tokyo-night&hide_border=true&area=true)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=axindri&color=58A6FF&style=flat-square&label=Profile+Views)
   
 </div>
