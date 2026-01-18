@@ -52,23 +52,3 @@
   <br/>
   
 </div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=axindri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-  
-</div>
-
----
-
-### 📈 GitHub Activity Graph
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=axindri&theme=tokyo-night&hide_border=true&area=true)
-  
-</div>
