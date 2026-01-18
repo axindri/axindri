@@ -5,7 +5,7 @@
   
   ### Software Developer
   
-  *Experienced developer since 2021* 🚀
+  *Write code since 2021* 🚀
 </div>
 
 ---
