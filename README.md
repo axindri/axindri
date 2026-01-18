@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100px" alt="Hello" />
   
-  # Hi there, I'm Alex! 👋
+  # Hi there, I'm Alex!
   
   ### Software Developer
   
@@ -16,7 +16,7 @@
 - 🚩 **Have experience with:** TypeScript, JavaScript, React, C, C++
 - 💻 Currently working on various projects
 - 📚 Always learning new technologies
-- 🎯 Focused on writing clean and efficient code
+- 🎯 Focused on writing efficient code
 
 ---
 
