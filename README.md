@@ -14,9 +14,6 @@
 
 - 🌟 **Main languages:** Python, SQL
 - 🚩 **Have experience with:** TypeScript, JavaScript, React, C, C++
-- 💻 Currently working on various projects
-- 📚 Always learning new technologies
-- 🎯 Focused on writing efficient code
 
 ---
 
